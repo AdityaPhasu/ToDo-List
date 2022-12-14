@@ -10,16 +10,16 @@ function InputArea(props) {
 
   return (
     <div className="form">
-      <input onChange={handleChange} type="text" value={inputText} />
+      <input onChange={handleChange}  type="text" value={inputText} />
       <button
         className="add-btn"
         onClick={() => {
           if (inputText === "") {
-            return 0;
+          return 0;
           } else {
-            props.onAdd(inputText);
-            setInputText("");
-          }
+           props.onAdd(inputText);
+          setInputText("");
+       }
         }}
       >
         <span>Add</span>
