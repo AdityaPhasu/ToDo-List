@@ -1,4 +1,4 @@
 # todo-list
 
-*created using react
+A react web app
 
