@@ -85,6 +85,7 @@ button span {
 .delete-btn {
   background-color: transparent;
   padding: 3px;
+  color: red;
 }
 
 .add-btn:active {
@@ -97,6 +98,4 @@ li {
   padding: 0.5rem;
 }
 
-.icon {
-  color: red;
-}
+

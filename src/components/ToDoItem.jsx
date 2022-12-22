@@ -28,7 +28,7 @@ function ToDoItem(props) {
             props.onChecked(props.id);
           }}
         >
-          <ImBin className="icon" />
+          <ImBin />
         </button>
       </div>
     </div>
