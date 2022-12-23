@@ -71,6 +71,7 @@ button {
   padding-right: 3px;
   border-radius: 5px;
   background-color: #ffeaa7;
+  transition: all 0.1s linear;
 }
 
 button span {
