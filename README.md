@@ -40,4 +40,5 @@ This is a simple todo-list
 
 Learned how to do CRUD operations using react.js
 
+A react web app
 
