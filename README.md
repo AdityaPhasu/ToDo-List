@@ -22,7 +22,7 @@ This is a simple todo-list.
 
 ### Links
 
-- Live Site URL: (adityaphasu.github.io/todo-list/)
+- Live Site URL: adityaphasu.github.io/todo-list/
 
 ## My process
 
@@ -40,5 +40,4 @@ This is a simple todo-list.
 
 Learned how to do CRUD operations using react.js
 
-A react web app
 
