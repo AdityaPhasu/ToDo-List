@@ -32,6 +32,6 @@ This is a simple todo-list.
 
 ### What I learned
 
-Learned how to do CRUD operations using react.js
+Learned how to do CRUD operations using react.js and the use of react hooks
 
 
