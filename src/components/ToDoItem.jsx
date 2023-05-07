@@ -11,13 +11,12 @@ function ToDoItem(props) {
   }
 
   return (
-    <div>
+    <div className="item-container">
       <div onClick={handleClick}>
         <li
           style={{
-            textDecoration: isDone ? "line-through" : "none"
-          }}
-        >
+            textDecoration: isDone ? "line-through" : "none",
+          }}>
           {props.item}
         </li>
       </div>
@@ -26,8 +25,7 @@ function ToDoItem(props) {
           className="delete-btn"
           onClick={() => {
             props.onChecked(props.id);
-          }}
-        >
+          }}>
           <ImBin />
         </button>
       </div>
