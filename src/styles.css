@@ -97,6 +97,11 @@ li {
   text-align: left;
   position: relative;
   padding: 0.5rem;
+  max-width: 15rem;
 }
 
-
+.item-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
